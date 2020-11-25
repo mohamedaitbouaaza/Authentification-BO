@@ -1,6 +1,6 @@
 # Authentification-BO
 
-** Basic User Authentification in BO using (spring boot + spring security + hibernate ) **
+**Basic User Authentification in BO using (spring boot + spring security + hibernate )**
 
 - [x] Using JWT Tokens
 
