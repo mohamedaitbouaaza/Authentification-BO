@@ -2,7 +2,7 @@
 
 **Basic User Authentification in BO using (spring boot + spring security + hibernate )**
 
-- [x] Using JWT Tokens
+- [x] Supports Token based Authentication with JWT.
 
 - [x] Created with a default user (admin) and no subscription yet .
 
